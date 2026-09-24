@@ -1,0 +1,12 @@
+.env
+credentials.json
+token.pickle
+cookies.json
+cookies_state.json
+ozon_products.csv
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
